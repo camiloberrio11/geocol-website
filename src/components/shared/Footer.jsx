@@ -39,22 +39,22 @@ const Footer = () => {
                   <h4 className="widget-title">Siguenos</h4>
                   <ul className="footer-bottom-social">
                     <li>
-                      <a href="#">
+                      <a href="!#">
                         <i className="fa fa-facebook"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="!#">
                         <i className="fa fa-twitter"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="!#">
                         <i className="fa fa-instagram"></i>
                       </a>
                     </li>
                     <li>
-                      <a href="#">
+                      <a href="!#">
                         <i className="fa fa-linkedin"></i>
                       </a>
                     </li>
