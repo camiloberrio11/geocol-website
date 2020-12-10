@@ -1,5 +1,4 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
 import '../../styles/components/shared/Footer.css';
 
 const Footer = () => {
@@ -25,7 +24,11 @@ const Footer = () => {
                   <h4 className="widget-title">Contáctanos</h4>
                   <p>Manizales, Colombia</p>
                   <p>santiago@gmail.com</p>
-                  <a target="_blank" href="http://wa.me/+573218450982">
+                  <a
+                    rel="noopener noreferrer"
+                    target="_blank"
+                    href="http://wa.me/+573218450982"
+                  >
                     <p>+57 322 655 9438</p>
                   </a>
                 </div>
