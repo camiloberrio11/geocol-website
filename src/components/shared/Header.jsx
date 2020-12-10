@@ -1,5 +1,5 @@
 import React from 'react';
-import { Link } from 'react-router-dom';
+import { NavLink, Link } from 'react-router-dom';
 
 const Header = () => {
   return (
@@ -8,7 +8,7 @@ const Header = () => {
         <div className="container">
           <nav id="navigation" className="navigation navigation-landscape">
             <div className="nav-header">
-              <Link className="nav-brand" to="/">
+              <Link className="nav-brand" to="/" >
                 <img src="assets/img/logo.png" className="logo" alt="" />
               </Link>
               <div className="nav-toggle"></div>
@@ -18,34 +18,34 @@ const Header = () => {
               style={{transitionProperty: 'none'}}
             >
               <ul className="nav-menu">
-                <li className="active">
-                  <Link to="/">
+                <li >
+                  <NavLink to="/" activeClassName="active">
                     Inicio<span className="submenu-indicator"></span>
-                  </Link>
+                  </NavLink>
                 </li>
 
                 <li>
-                  <Link to="/empresa">
+                  <NavLink to="/empresa" activeClassName="activeNavLink">
                     Empresa<span className="submenu-indicator"></span>
-                  </Link>
+                  </NavLink>
                 </li>
 
                 <li>
-                  <Link to="/servicios">
+                  <NavLink to="/servicios">
                     Servicios<span className="submenu-indicator"></span>
-                  </Link>
+                  </NavLink>
                 </li>
 
                 <li>
-                  <Link to="/proyectos">
+                  <NavLink to="/proyectos">
                     Proyectos<span className="submenu-indicator"></span>
-                  </Link>
+                  </NavLink>
                 </li>
 
                 <li>
-                  <Link to="/contacto">
+                  <NavLink to="/contacto">
                     Contacto<span className="submenu-indicator"></span>
-                  </Link>
+                  </NavLink>
                 </li>
               </ul>
             </div>
