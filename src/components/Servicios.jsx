@@ -4,7 +4,9 @@ import Layout from './shared/Layout';
 const Servicios = () => {
   return (
     <>
-      <Layout>Contenido de servicios</Layout>
+      <Layout>
+      <h1>Geocol</h1>
+      </Layout>
     </>
   );
 };

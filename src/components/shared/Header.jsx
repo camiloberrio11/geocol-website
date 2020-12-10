@@ -9,7 +9,7 @@ const Header = () => {
           <nav id="navigation" className="navigation navigation-landscape">
             <div className="nav-header">
               <Link className="nav-brand" to="/" >
-                <img src="assets/img/logo.png" className="logo" alt="" />
+                <img src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,h_65,w_356/v1607630035/geocol/logo_ppnmg2.png" className="logo" alt="" />
               </Link>
               <div className="nav-toggle"></div>
             </div>
