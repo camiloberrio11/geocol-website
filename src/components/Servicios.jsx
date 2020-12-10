@@ -1,13 +1,12 @@
-import React from 'react'
-import Header from './shared/Header'
+import React from 'react';
+import Layout from './shared/Layout';
 
 const Servicios = () => {
   return (
     <>
-      <Header />
-      Servicios
+      <Layout>Contenido de servicios</Layout>
     </>
-  )
-}
+  );
+};
 
-export default Servicios
+export default Servicios;

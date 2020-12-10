@@ -1,11 +1,12 @@
 import React from 'react'
-import Header from './shared/Header'
+import Layout from './shared/Layout'
 
 const Proyectos = () => {
   return (
     <>
-      <Header />
-      Proyectos
+    <Layout>
+      Contenido de proyecto
+    </Layout>
     </>
   )
 }

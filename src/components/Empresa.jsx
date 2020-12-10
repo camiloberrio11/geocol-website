@@ -1,11 +1,12 @@
 import React from 'react'
-import Header from './shared/Header'
+import Layout from './shared/Layout'
 
 const Empresa = () => {
   return (
     <>
-      <Header />
-      Empresa
+    <Layout>
+      Contenido de empresa
+    </Layout>
     </>
   )
 }

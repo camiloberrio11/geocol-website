@@ -1,12 +1,10 @@
 import React from 'react'
-import Header from './shared/Header'
+import Layout from './shared/Layout'
 
 const Contacto = () => {
   return (
-    <>
-      <Header />
-      Contacto
-    </>
+    <Layout>
+    </Layout>
   )
 }
 

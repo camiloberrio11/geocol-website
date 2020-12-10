@@ -53,24 +53,7 @@ const Footer = () => {
                         <i className="fa fa-instagram"></i>
                       </a>
                     </li>
-                    <li>
-                      <a href="!#">
-                        <i className="fa fa-linkedin"></i>
-                      </a>
-                    </li>
                   </ul>
-
-                  <form className="signup-frm mt-4">
-                    <input
-                      type="email"
-                      className="form-control sigmup-me"
-                      placeholder="Your Email Address"
-                      required="required"
-                    />
-                    <button type="submit" className="btn btn-primary">
-                      <i className="ti-arrow-right"></i>
-                    </button>
-                  </form>
                 </div>
               </div>
             </div>
