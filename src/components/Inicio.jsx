@@ -37,10 +37,12 @@ const Inicio = () => {
           <div className="row">
             <div className="col text-center">
               <div className="sec-heading mx-auto">
-                <h2>Our Creative Value</h2>
+                <h2>Lo que nos encanta hacer</h2>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed
-                  do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                  Realizamos todo tipo de servicios relacionados con geotecnia,
+                  podemos asesorar en proecesos relacionados, ademas de llevar
+                  tus estudios de geotecnia a un siguiente nivel, te dejamos
+                  algunos de nuestros servicios más caracteristicos
                 </p>
               </div>
             </div>
