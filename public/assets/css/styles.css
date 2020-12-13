@@ -2737,7 +2737,9 @@ textarea.form-control {
 .nav-brand:focus,
 .nav-brand:hover,
 .nav-menu > li > a {
-  color: #003b77;
+  color: black;
+
+  /* color: #003b77; */
   letter-spacing: 0;
   font-weight: 500;
   font-family: Montserrat;

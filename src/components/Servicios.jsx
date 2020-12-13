@@ -5,7 +5,7 @@ const Servicios = () => {
   return (
     <>
       <Layout>
-      <h1>Geocol</h1>
+      <h1>ML 45</h1>
       </Layout>
     </>
   );

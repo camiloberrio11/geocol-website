@@ -11,7 +11,7 @@ const Inicio = () => {
           <div className="row">
             <div className="col-lg-8 col-md-10">
               <div className="hero-content">
-                <h1>Geocol</h1>
+                <h1>ML 45</h1>
                 <p className="lead">
                   Especialistas en todo lo relacionado con geotecnía y asesoria
                   para demas servicios, ademas contamos con años de experiencia
@@ -22,7 +22,7 @@ const Inicio = () => {
                     to="/empresa"
                     className="btn-lg btn-success btn-rounded"
                   >
-                    Saber más de Geocol
+                    Saber más de ML 45
                   </Link>
                 </div>
               </div>
@@ -31,6 +31,69 @@ const Inicio = () => {
         </div>
       </div>
       <div className="clearfix"></div>
+
+      <section>
+				<div className="container">
+					
+					<div className="row">
+						<div className="col text-center">
+							<div className="sec-heading mx-auto">
+								<h2>Our Creative Value</h2>
+								<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+							</div>
+						</div>
+					</div>
+					
+					<div className="row">
+						<div className="col-lg-4 col-md-4 mb-4">
+							<div className="middle-icon-features" data-aos="fade-up" data-aos-duration="1200">
+								<div className="middle-icon-features-item">
+									<div className="middle-icon-large-features-box f-light-warning"><i className="ti-ruler-pencil"></i></div>
+									<div className="middle-icon-features-content">
+										<h4>Fully Customization</h4>
+										<p>There are many variations of passages of Lorem Ipsum available, but the majority have Ipsum available.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						<div className="col-lg-4 col-md-4 mb-4">
+							<div className="middle-icon-features" data-aos="fade-up" data-aos-duration="1200">
+								<div className="middle-icon-features-item">
+									<div className="middle-icon-large-features-box"><i className="ti-shopping-cart-full"></i></div>
+									<div className="middle-icon-features-content">
+										<h4>WooCommerce</h4>
+										<p>There are many variations of passages of Lorem Ipsum available, but the majority have Ipsum available.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+						<div className="col-lg-4 col-md-4 mb-4">
+							<div className="middle-icon-features" data-aos="fade-up" data-aos-duration="1200">
+								<div className="middle-icon-features-item">
+									<div className="middle-icon-large-features-box f-light-success"><i className="ti-desktop"></i></div>
+									<div className="middle-icon-features-content">
+										<h4>Creative Design</h4>
+										<p>There are many variations of passages of Lorem Ipsum available, but the majority have Ipsum available.</p>
+									</div>
+								</div>
+							</div>
+						</div>
+						
+					</div>
+					
+					<div className="row">
+						<div className="col-lg-12 col-md-12 text-center">
+							<a className="btn btn-primary btn-lg btn-rounded" href="#">See More Services<i className="ml-2 ti-arrow-right"></i></a>
+						</div>
+					</div>
+					
+				</div>
+			</section>
+			<div className="clearfix"></div>
+
+
 
       <section className="p-0 mt-3">
         <div className="container-fluid p-0">

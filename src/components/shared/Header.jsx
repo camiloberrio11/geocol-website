@@ -8,17 +8,21 @@ const Header = () => {
         <div className="container">
           <nav id="navigation" className="navigation navigation-landscape">
             <div className="nav-header">
-              <Link className="nav-brand" to="/" >
-                <img src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,h_65,w_356/v1607630035/geocol/logo_ppnmg2.png" className="logo" alt="" />
+              <Link className="nav-brand" to="/">
+                <img
+                  src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,h_65,w_356/v1607820179/geocol/logo2tra_xbl066.png"
+                  className="logo"
+                  alt=""
+                />
               </Link>
               <div className="nav-toggle"></div>
             </div>
             <div
               className="nav-menus-wrapper"
-              style={{transitionProperty: 'none'}}
+              style={{ transitionProperty: 'none' }}
             >
               <ul className="nav-menu">
-                <li >
+                <li>
                   <NavLink to="/" activeClassName="active">
                     Inicio<span className="submenu-indicator"></span>
                   </NavLink>
