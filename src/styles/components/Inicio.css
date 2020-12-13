@@ -1,5 +1,5 @@
 .inicio_jum {
-  background-image: url('https://res.cloudinary.com/dupegtamn/image/upload/c_scale,h_900/v1607624578/geocol/background-inicio_odubih.jpg');
+  background-image: url('https://res.cloudinary.com/dupegtamn/image/upload/c_scale,h_900,w_1920/v1607884246/geocol/iniciowall_tp6xbo.jpg');
 }
 
 .panel1 {
@@ -8,4 +8,9 @@
 
 .panel2 {
   background-color: #508BCD;
+}
+
+
+.txt-black {
+  color: black;
 }

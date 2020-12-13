@@ -20,7 +20,7 @@ const Inicio = () => {
                 <div className="btn-sec">
                   <Link
                     to="/empresa"
-                    className="btn-lg btn-success btn-rounded"
+                    className="btn-lg btn-warning btn-rounded"
                   >
                     Saber más de ML 45
                   </Link>
@@ -55,11 +55,11 @@ const Inicio = () => {
               >
                 <div className="middle-icon-features-item">
                   <div className="middle-icon-large-features-box f-light-warning">
-                    <i className="ti-ruler-pencil"></i>
+                    <i className="ti-direction-alt"></i>
                   </div>
                   <div className="middle-icon-features-content">
-                    <h4>Fully Customization</h4>
-                    <p>
+                    <h4 className="txt-black">Geotecnia</h4>
+                    <p className="txt-black">
                       There are many variations of passages of Lorem Ipsum
                       available, but the majority have Ipsum available.
                     </p>
@@ -75,12 +75,12 @@ const Inicio = () => {
                 data-aos-duration="1200"
               >
                 <div className="middle-icon-features-item">
-                  <div className="middle-icon-large-features-box">
-                    <i className="ti-shopping-cart-full"></i>
+                  <div className="middle-icon-large-features-box f-light-warning">
+                    <i className="ti-wand"></i>
                   </div>
                   <div className="middle-icon-features-content">
-                    <h4>WooCommerce</h4>
-                    <p>
+                    <h4 className="txt-black">Perforaciones</h4>
+                    <p className="txt-black">
                       There are many variations of passages of Lorem Ipsum
                       available, but the majority have Ipsum available.
                     </p>
@@ -96,12 +96,12 @@ const Inicio = () => {
                 data-aos-duration="1200"
               >
                 <div className="middle-icon-features-item">
-                  <div className="middle-icon-large-features-box f-light-success">
-                    <i className="ti-desktop"></i>
+                  <div className="middle-icon-large-features-box f-light-warning">
+                    <i className="ti-slice"></i>
                   </div>
                   <div className="middle-icon-features-content">
-                    <h4>Creative Design</h4>
-                    <p>
+                    <h4 className="txt-black">Diseños geotécnicos</h4>
+                    <p className="txt-black">
                       There are many variations of passages of Lorem Ipsum
                       available, but the majority have Ipsum available.
                     </p>
@@ -113,8 +113,11 @@ const Inicio = () => {
 
           <div className="row">
             <div className="col-lg-12 col-md-12 text-center">
-              <a className="btn btn-primary btn-lg btn-rounded" href="#!">
-                See More Services<i className="ml-2 ti-arrow-right"></i>
+              <a
+                className="btn btn-warning btn-lg btn-rounded"
+                href="/servicios"
+              >
+                Ver más servicios<i className="ml-2 ti-arrow-right"></i>
               </a>
             </div>
           </div>
