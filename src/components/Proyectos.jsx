@@ -1,14 +1,15 @@
-import React from 'react'
-import Layout from './shared/Layout'
+import React from 'react';
+import BannerPage from './shared/BannerPage';
+import Layout from './shared/Layout';
 
 const Proyectos = () => {
   return (
     <>
-    <Layout>
-      Contenido de proyecto
-    </Layout>
+      <Layout>
+        <BannerPage titulo="Nuestros proyectos" />
+      </Layout>
     </>
-  )
-}
+  );
+};
 
-export default Proyectos
+export default Proyectos;

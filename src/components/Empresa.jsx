@@ -1,22 +1,13 @@
 import React from 'react';
 import '../styles/components/empresa.css';
+import BannerPage from './shared/BannerPage';
 import Layout from './shared/Layout';
 
 const Empresa = () => {
   return (
     <>
       <Layout>
-        <div className="page-title-wrap pt-img-wrap backimg">
-          <div className="container">
-            <div className="col-lg-12 col-md-12">
-              <div className="pt-caption text-center mt-5">
-                <h1>¿Quienes somos?</h1>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className="clearfix"></div>
-
+      <BannerPage titulo="¿Quienes somos?" />
         <section>
           <div className="container">
             <div className="row">

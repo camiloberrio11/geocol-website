@@ -1,20 +1,12 @@
 import React from 'react';
+import BannerPage from './shared/BannerPage';
 import Layout from './shared/Layout';
 
 const Servicios = () => {
   return (
     <>
       <Layout>
-        <div className="page-title-wrap pt-img-wrap backimg">
-          <div className="container">
-            <div className="col-lg-12 col-md-12">
-              <div className="pt-caption text-center mt-5">
-                <h1>Servicios</h1>
-              </div>
-            </div>
-          </div>
-        </div>
-        <div className="clearfix"></div>
+        <BannerPage titulo="Servicios" />
         <section>
           <div className="container">
             <div className="row">
@@ -26,7 +18,10 @@ const Servicios = () => {
                 >
                   <div className="large-features-2-item">
                     <div className="large-features-2-icon">
-                      <img src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,h_300,w_300/v1607885938/geocol/logoservices1_ks9dz9.jpg" alt="geotecnia" />
+                      <img
+                        src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,h_300,w_300/v1607885938/geocol/logoservices1_ks9dz9.jpg"
+                        alt="geotecnia"
+                      />
                     </div>
                     <div className="large-features-2-content">
                       <h4 className="txt-black">Geotecnia</h4>
@@ -47,7 +42,10 @@ const Servicios = () => {
                 >
                   <div className="large-features-2-item">
                     <div className="large-features-2-icon">
-                      <img src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,h_300,w_300/v1607886082/geocol/logoservices2_u0utga.jpg" alt="" />
+                      <img
+                        src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,h_300,w_300/v1607886082/geocol/logoservices2_u0utga.jpg"
+                        alt=""
+                      />
                     </div>
                     <div className="large-features-2-content">
                       <h4 className="txt-black">Perforaciones</h4>
@@ -68,7 +66,10 @@ const Servicios = () => {
                 >
                   <div className="large-features-2-item">
                     <div className="large-features-2-icon">
-                      <img src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,h_300,w_300/v1607886148/geocol/logoservices3_oycjn3.jpg" alt="" />
+                      <img
+                        src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,h_300,w_300/v1607886148/geocol/logoservices3_oycjn3.jpg"
+                        alt=""
+                      />
                     </div>
                     <div className="large-features-2-content">
                       <h4 className="txt-black">Diseños geotecnicos</h4>
