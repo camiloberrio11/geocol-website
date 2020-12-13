@@ -29,9 +29,9 @@ const Header = () => {
                 </li>
 
                 <li>
-                  <NavLink to="/empresa">
+                  <a href="/empresa">
                     Empresa<span className="submenu-indicator"></span>
-                  </NavLink>
+                  </a>
                 </li>
 
                 <li>
