@@ -27,7 +27,7 @@ const Footer = () => {
                   <a
                     rel="noopener noreferrer"
                     target="_blank"
-                    href="http://wa.me/+573218450982"
+                    href="http://wa.me/+573228450982"
                   >
                     <p>+57 322 655 9438</p>
                   </a>
