@@ -6527,7 +6527,8 @@ button.close span {
   opacity: 0.54;
 }
 .page-title-wrap.pt-img-wrap h1 {
-  color: #fff;
+  /* color: #fff; */
+  color: #CAA136;
 }
 .pt-caption p {
   font-size: 16px;
