@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
 const Header = () => {
   return (
@@ -28,9 +29,9 @@ const Header = () => {
                 </li>
 
                 <li>
-                  <a href="/empresa">
+                  <Link to="/empresa">
                     Empresa<span className="submenu-indicator"></span>
-                  </a>
+                  </Link>
                 </li>
 
                 <li>
