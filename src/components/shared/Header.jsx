@@ -47,7 +47,11 @@ const Header = () => {
                 </li>
 
                 <li>
-                  <a href="http://wa.me/+573226559438" target="_blank">
+                  <a
+                    href="http://wa.me/+573226559438"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
                     Contacto<span className="submenu-indicator"></span>
                   </a>
                 </li>
