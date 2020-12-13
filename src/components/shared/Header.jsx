@@ -1,5 +1,4 @@
 import React from 'react';
-import { NavLink, Link } from 'react-router-dom';
 
 const Header = () => {
   return (
@@ -8,13 +7,13 @@ const Header = () => {
         <div className="container">
           <nav id="navigation" className="navigation navigation-landscape">
             <div className="nav-header">
-              <Link className="nav-brand" to="/">
+              <a className="nav-brand" href="/">
                 <img
                   src="https://res.cloudinary.com/dupegtamn/image/upload/c_scale,h_65,w_356/v1607820179/geocol/logo2tra_xbl066.png"
                   className="logo"
-                  alt=""
+                  alt="logo"
                 />
-              </Link>
+              </a>
               <div className="nav-toggle"></div>
             </div>
             <div
@@ -23,27 +22,27 @@ const Header = () => {
             >
               <ul className="nav-menu">
                 <li>
-                  <NavLink to="/" activeClassName="active">
+                  <a href="/">
                     Inicio<span className="submenu-indicator"></span>
-                  </NavLink>
+                  </a>
                 </li>
 
                 <li>
-                  <NavLink to="/empresa" activeClassName="activeNavLink">
+                  <a href="/empresa">
                     Empresa<span className="submenu-indicator"></span>
-                  </NavLink>
+                  </a>
                 </li>
 
                 <li>
-                  <NavLink to="/servicios">
+                  <a href="/servicios">
                     Servicios<span className="submenu-indicator"></span>
-                  </NavLink>
+                  </a>
                 </li>
 
                 <li>
-                  <NavLink to="/proyectos">
+                  <a href="/proyectos">
                     Proyectos<span className="submenu-indicator"></span>
-                  </NavLink>
+                  </a>
                 </li>
 
                 <li>

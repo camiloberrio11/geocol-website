@@ -17,11 +17,7 @@ const Servicios = () => {
         <div className="clearfix"></div>
         <section>
           <div className="container">
-            <div className="row">
-              <div className="col-lg-12 col-md-12 mb-4">
-                <h2>Related Services</h2>
-              </div>
-            </div>
+
 
             <div className="row">
               <div className="col-lg-4 col-md-4 col-sm-6">
@@ -35,7 +31,7 @@ const Servicios = () => {
                       <img src="https://via.placeholder.com/300x300" alt="" />
                     </div>
                     <div className="large-features-2-content">
-                      <h4>Market Analysis</h4>
+                      <h4>Geotecnia</h4>
                       <p>
                         There are many variations of passages of Lorem Ipsum
                         available, but the majority have suffered.
@@ -56,7 +52,7 @@ const Servicios = () => {
                       <img src="https://via.placeholder.com/300x300" alt="" />
                     </div>
                     <div className="large-features-2-content">
-                      <h4>Email Marketing</h4>
+                      <h4>Perforaciones</h4>
                       <p>
                         There are many variations of passages of Lorem Ipsum
                         available, but the majority have suffered.
@@ -77,7 +73,7 @@ const Servicios = () => {
                       <img src="https://via.placeholder.com/300x300" alt="" />
                     </div>
                     <div className="large-features-2-content">
-                      <h4>Off Page SEO</h4>
+                      <h4>Diseños geotecnicos</h4>
                       <p>
                         There are many variations of passages of Lorem Ipsum
                         available, but the majority have suffered.

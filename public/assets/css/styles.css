@@ -2937,7 +2937,7 @@ nav a:hover {
 .nav-menu > .active > a,
 .nav-menu > .focus > a,
 .nav-menu > li:hover > a {
-  color: #61b15a !important;
+  color: gold !important;
 }
 .nav-menu > li > a > [class*='ion-'],
 .nav-menu > li > a > i {
