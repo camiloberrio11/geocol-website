@@ -47,9 +47,9 @@ const Header = () => {
                 </li>
 
                 <li>
-                  <NavLink to="/contacto">
+                  <a href="http://wa.me/+573226559438" target="_blank">
                     Contacto<span className="submenu-indicator"></span>
-                  </NavLink>
+                  </a>
                 </li>
               </ul>
             </div>

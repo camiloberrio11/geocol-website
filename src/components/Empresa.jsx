@@ -1,17 +1,12 @@
 import React from 'react';
+import '../styles/components/empresa.css';
 import Layout from './shared/Layout';
 
 const Empresa = () => {
   return (
     <>
       <Layout>
-        <div
-          className="page-title-wrap pt-img-wrap"
-          style={{
-            backgroundImage:
-              "url('https://res.cloudinary.com/dupegtamn/image/upload/c_scale,h_900/v1607873917/geocol/notepad-691250_1920_b9zo2l.jpg')",
-          }}
-        >
+        <div className="page-title-wrap pt-img-wrap backimg">
           <div className="container">
             <div className="col-lg-12 col-md-12">
               <div className="pt-caption text-center mt-5">

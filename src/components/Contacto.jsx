@@ -5,7 +5,7 @@ import Layout from './shared/Layout';
 const Contacto = () => {
   return (
     <Layout>
-      <Link target="_blank" to="http://wa.me/+573228450982" />
+      <a target="_blank" href="http://wa.me/+573228450982" />
     </Layout>
   );
 };
