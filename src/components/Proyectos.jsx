@@ -86,7 +86,7 @@ const Proyectos = () => {
                     molestiae quod reprehenderit tempore! Dolorum nobis
                     repudiandae impedit tempora? Consequuntur, perspiciatis?
                   </p>
-                  <a href="javascript:void(0)" className="tw-readmore">
+                  <a href="#!" className="tw-readmore">
                     Leer más
                     <i className="ti-arrow-right"></i>
                   </a>
@@ -111,7 +111,7 @@ const Proyectos = () => {
                     Start working with an company that provide everything you
                     need to any create awareness drive
                   </p>
-                  <a href="javascript:void(0)" className="tw-readmore">
+                  <a href="#!" className="tw-readmore">
                     Leer más
                     <i className="ti-arrow-right"></i>
                   </a>
@@ -136,7 +136,7 @@ const Proyectos = () => {
                     Start working with an company that provide everything you
                     need to any create awareness drive
                   </p>
-                  <a href="javascript:void(0)" className="tw-readmore">
+                  <a href="#!" className="tw-readmore">
                     Leer más
                     <i className="ti-arrow-right"></i>
                   </a>
@@ -161,7 +161,7 @@ const Proyectos = () => {
                     Start working with an company that provide everything you
                     need to any create awareness drive
                   </p>
-                  <a href="javascript:void(0)" className="tw-readmore">
+                  <a href="#!" className="tw-readmore">
                     Leer más
                     <i className="ti-arrow-right"></i>
                   </a>
@@ -186,7 +186,7 @@ const Proyectos = () => {
                     Start working with an company that provide everything you
                     need to any create awareness drive
                   </p>
-                  <a href="javascript:void(0)" className="tw-readmore">
+                  <a href="#!" className="tw-readmore">
                     Leer más
                     <i className="ti-arrow-right"></i>
                   </a>
@@ -211,7 +211,7 @@ const Proyectos = () => {
                     Start working with an company that provide everything you
                     need to any create awareness drive
                   </p>
-                  <a href="javascript:void(0)" className="tw-readmore">
+                  <a href="#!" className="tw-readmore">
                     Leer más
                     <i className="ti-arrow-right"></i>
                   </a>
