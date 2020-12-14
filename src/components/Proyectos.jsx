@@ -1,11 +1,14 @@
 import React from 'react';
-import '../styles/components/Proyectos.css'
+import '../styles/components/Proyectos.css';
 import BannerPage from './shared/BannerPage';
 import Layout from './shared/Layout';
+import ModalMessage from './shared/ModalMessage';
 
 const Proyectos = () => {
+
   return (
     <>
+
       <Layout>
         <BannerPage titulo="Nuestros proyectos" />
 
@@ -24,6 +27,7 @@ const Proyectos = () => {
                 </div>
               </div>
             </div>
+
 
             <div className="row">
               <div className="col-lg-4 col-md-4">
@@ -84,7 +88,7 @@ const Proyectos = () => {
                     repudiandae impedit tempora? Consequuntur, perspiciatis?
                   </p>
                   <a href="javascript:void(0)" className="tw-readmore">
-                    Read More
+                    Leer más
                     <i className="ti-arrow-right"></i>
                   </a>
                 </div>
@@ -109,7 +113,7 @@ const Proyectos = () => {
                     need to any create awareness drive
                   </p>
                   <a href="javascript:void(0)" className="tw-readmore">
-                    Read More
+                    Leer más
                     <i className="ti-arrow-right"></i>
                   </a>
                 </div>
@@ -134,7 +138,7 @@ const Proyectos = () => {
                     need to any create awareness drive
                   </p>
                   <a href="javascript:void(0)" className="tw-readmore">
-                    Read More
+                    Leer más
                     <i className="ti-arrow-right"></i>
                   </a>
                 </div>
@@ -159,7 +163,7 @@ const Proyectos = () => {
                     need to any create awareness drive
                   </p>
                   <a href="javascript:void(0)" className="tw-readmore">
-                    Read More
+                    Leer más
                     <i className="ti-arrow-right"></i>
                   </a>
                 </div>
@@ -184,7 +188,7 @@ const Proyectos = () => {
                     need to any create awareness drive
                   </p>
                   <a href="javascript:void(0)" className="tw-readmore">
-                    Read More
+                    Leer más
                     <i className="ti-arrow-right"></i>
                   </a>
                 </div>
@@ -209,7 +213,7 @@ const Proyectos = () => {
                     need to any create awareness drive
                   </p>
                   <a href="javascript:void(0)" className="tw-readmore">
-                    Read More
+                    Leer más
                     <i className="ti-arrow-right"></i>
                   </a>
                 </div>
