@@ -2,7 +2,6 @@ import React from 'react';
 import '../styles/components/Proyectos.css';
 import BannerPage from './shared/BannerPage';
 import Layout from './shared/Layout';
-import ModalMessage from './shared/ModalMessage';
 
 const Proyectos = () => {
 
