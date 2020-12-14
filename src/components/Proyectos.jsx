@@ -42,7 +42,7 @@ const Proyectos = () => {
                       alt=""
                     />
                   </div>
-                  <h3>Digital Marketing</h3>
+                  <h3 className="txt-black">Diseños geotécnicos</h3>
                   <p className="probando">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                     Eius ullam totam repellat saepe, est, suscipit id incidunt
@@ -106,7 +106,7 @@ const Proyectos = () => {
                       alt=""
                     />
                   </div>
-                  <h3>Digital Marketing</h3>
+                  <h3 className="txt-black">Diseños geotécnicos</h3>
                   <p className="probando">
                     Start working with an company that provide everything you
                     need to any create awareness drive
@@ -131,7 +131,7 @@ const Proyectos = () => {
                       alt=""
                     />
                   </div>
-                  <h3>Digital Marketing</h3>
+                  <h3 className="txt-black">Diseños geotécnicos</h3>
                   <p className="probando">
                     Start working with an company that provide everything you
                     need to any create awareness drive
@@ -156,7 +156,7 @@ const Proyectos = () => {
                       alt=""
                     />
                   </div>
-                  <h3>Digital Marketing</h3>
+                  <h3 className="txt-black">Diseños geotécnicos</h3>
                   <p>
                     Start working with an company that provide everything you
                     need to any create awareness drive
@@ -181,7 +181,7 @@ const Proyectos = () => {
                       alt=""
                     />
                   </div>
-                  <h3>Digital Marketing</h3>
+                  <h3 className="txt-black">Diseños geotécnicos</h3>
                   <p>
                     Start working with an company that provide everything you
                     need to any create awareness drive
@@ -206,7 +206,7 @@ const Proyectos = () => {
                       alt=""
                     />
                   </div>
-                  <h3>Digital Marketing</h3>
+                  <h3 className="txt-black">Diseños geotécnicos</h3>
                   <p>
                     Start working with an company that provide everything you
                     need to any create awareness drive
