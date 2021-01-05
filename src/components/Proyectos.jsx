@@ -4,10 +4,8 @@ import BannerPage from './shared/BannerPage';
 import Layout from './shared/Layout';
 
 const Proyectos = () => {
-
   return (
     <>
-
       <Layout>
         <BannerPage titulo="Nuestros proyectos" />
 
@@ -26,7 +24,6 @@ const Proyectos = () => {
                 </div>
               </div>
             </div>
-
 
             <div className="row">
               <div className="col-lg-4 col-md-4">

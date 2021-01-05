@@ -15,6 +15,8 @@ const Footer = () => {
                     <li>Geotecnia</li>
                     <li>Perforaciones</li>
                     <li>Diseños geotecnícos</li>
+                    <li>Ensayos de laboratorio</li>
+                    <li>Líneas de refracción sísmica</li>
                   </ul>
                 </div>
               </div>
@@ -22,8 +24,9 @@ const Footer = () => {
               <div className="col-lg-4 col-md-6">
                 <div className="footer-widget">
                   <h4 className="widget-title">Contáctanos</h4>
-                  <p>Manizales, Colombia</p>
-                  <p>santiago@gmail.com</p>
+                  <p>Pereira, Risaralda</p>
+                  <p>santiago.Loaiza.05@hotmail.com</p>
+                  <p>sloaizac@unal.edu.co</p>
                   <a
                     rel="noopener noreferrer"
                     target="_blank"

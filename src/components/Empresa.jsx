@@ -7,29 +7,23 @@ const Empresa = () => {
   return (
     <>
       <Layout>
-      <BannerPage titulo="¿Quienes somos?" />
+        <BannerPage titulo="¿Quienes somos?" />
         <section>
           <div className="container">
             <div className="row">
               <div className="col-lg-6 col-md-6">
                 <div className="about-content">
                   <p>
-                    At vero eos et accusamus et iusto odio dignissimos ducimus
-                    qui blanditiis praesentium voluptatum deleniti atque
-                    corrupti quos dolores et quas molestias excepturi sint
-                    occaecati cupiditate non provident, similique sunt in culpa
-                    qui officia deserunt mollitia animi, id est laborum et
-                    dolorum fuga. Et harum quidem rerum facilis est et expedita
-                    distinctio.{' '}
+                    <b>Ingeniero civil especialista en geotecnia</b>, con
+                    experiencia en diseño y construcción de obras geotécnicas,
+                    asi como diseños intgrales que brinde solucion a problemas
+                    de la ingeniería con el apoyo de personas, ingenieros y un
+                    grupo interdisciplinario de personas que ayudan a cumplir
+                    cada logro.
                   </p>
                   <p>
-                    At vero eos et accusamus et iusto odio dignissimos ducimus
-                    qui blanditiis praesentium voluptatum deleniti atque
-                    corrupti quos dolores et quas molestias excepturi sint
-                    occaecati cupiditate non provident, similique sunt in culpa
-                    qui officia deserunt mollitia animi, id est laborum et
-                    dolorum fuga. Et harum quidem rerum facilis est et expedita
-                    distinctio.{' '}
+                    Trabajamos en todo el país con sede principal en la ciudad
+                    de Pereira.
                   </p>
                   <ul className="our-team-profile ts-light-bg">
                     <li>

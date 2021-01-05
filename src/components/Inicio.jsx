@@ -11,18 +11,18 @@ const Inicio = () => {
           <div className="row">
             <div className="col-lg-8 col-md-10">
               <div className="hero-content">
-                <h1>ML 45</h1>
+                <h1>Diseño y construcción</h1>
                 <p className="lead">
-                  Especialistas en todo lo relacionado con geotecnía y asesoria
-                  para demas servicios, ademas contamos con años de experiencia
-                  en diferentes campos aportando a empresas nacionales
+                  Diseños integrales que componen los campos de la Geotecnia,
+                  Hidráulica - hidrología y estructuras, así como la
+                  construcción de obras geotécnicas
                 </p>
                 <div className="btn-sec">
                   <Link
                     to="/empresa"
                     className="btn-lg btn-warning btn-rounded"
                   >
-                    Saber más de ML 45
+                    Quiero saber más
                   </Link>
                 </div>
               </div>
@@ -40,9 +40,9 @@ const Inicio = () => {
                 <h2>Lo que nos encanta hacer</h2>
                 <p>
                   Realizamos todo tipo de servicios relacionados con geotecnia,
-                  podemos asesorar en proecesos relacionados, ademas de llevar
-                  tus estudios de geotecnia a un siguiente nivel, te dejamos
-                  algunos de nuestros servicios más caracteristicos
+                  consultoría y construcció, así como estudios integrales con
+                  las demás áreas de la ingeniería civil. Te dejamos algunos de
+                  nuestros servicios más característicos
                 </p>
               </div>
             </div>
@@ -60,10 +60,10 @@ const Inicio = () => {
                     <i className="ti-direction-alt"></i>
                   </div>
                   <div className="middle-icon-features-content">
-                    <h4 className="txt-black">Geotecnia</h4>
+                    <h4 className="txt-black">Estudios integrales</h4>
                     <p className="txt-black">
-                      There are many variations of passages of Lorem Ipsum
-                      available, but the majority have Ipsum available.
+                      Donde se solucionan problemas de la ingeniería que
+                      ameritan la union de todas las áreas de la misma.
                     </p>
                   </div>
                 </div>
@@ -81,10 +81,12 @@ const Inicio = () => {
                     <i className="ti-wand"></i>
                   </div>
                   <div className="middle-icon-features-content">
-                    <h4 className="txt-black">Perforaciones</h4>
+                    <h4 className="txt-black">Diseños geotécnicos</h4>
                     <p className="txt-black">
-                      There are many variations of passages of Lorem Ipsum
-                      available, but the majority have Ipsum available.
+                      Donde se solucionan los incovenientes de estabilidad que
+                      día a día se presentan en las obras, mediante alternativas
+                      como anclajes, terrazas, muros de contención, MSR, entre
+                      otros.
                     </p>
                   </div>
                 </div>
@@ -102,10 +104,10 @@ const Inicio = () => {
                     <i className="ti-slice"></i>
                   </div>
                   <div className="middle-icon-features-content">
-                    <h4 className="txt-black">Diseños geotécnicos</h4>
+                    <h4 className="txt-black">Estudios de suelos</h4>
                     <p className="txt-black">
-                      There are many variations of passages of Lorem Ipsum
-                      available, but the majority have Ipsum available.
+                      Donde se encuentran las soluciones más óptimas para las
+                      cimentaciones de diferentes estructuras
                     </p>
                   </div>
                 </div>
