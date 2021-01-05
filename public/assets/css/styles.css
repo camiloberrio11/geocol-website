@@ -6567,7 +6567,7 @@ span.current-page:before {
   content: '';
   width: 100px;
   height: 2px;
-  background: #fe2a5c;
+  /* background: #fe2a5c; */
   position: absolute;
   bottom: -6px;
 }

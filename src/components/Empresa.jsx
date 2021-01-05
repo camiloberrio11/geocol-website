@@ -13,6 +13,7 @@ const Empresa = () => {
             <div className="row">
               <div className="col-lg-6 col-md-6">
                 <div className="about-content">
+                  <h2>Santiago Loaiza</h2>
                   <p>
                     <b>Ingeniero civil especialista en geotecnia</b>, con
                     experiencia en diseño y construcción de obras geotécnicas,
